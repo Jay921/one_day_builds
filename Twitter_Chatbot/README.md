@@ -2,10 +2,11 @@
 
 ## Requirements
 
-playsound
-speech_recognition
-pyaudio
-gtts
+- playsound
+- speech_recognition
+- pyaudio
+- gtts
+- tweepy
 
 ## Before Run 
 
