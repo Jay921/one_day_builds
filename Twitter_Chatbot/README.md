@@ -2,6 +2,10 @@
 
 ## Requirements
 
+playsound
+speech_recognition
+pyaudio
+gtts
 
 ## Before Run 
 
